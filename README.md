@@ -6,7 +6,7 @@ This GitHub repository is for storing the reading materials and the notes taken 
 
 ## Calender
 
-**Time:** Every Thursday, 3:00pm - 5:00pm EST
+**Time:** Every Thursday, 3:00pm - 5:00pm Eastern Time
 
 **Location:** Room 32-G575 at Stata Center (Gates Tower). 32 Vassar St, Cambridge, MA 02139.
 
