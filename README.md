@@ -17,8 +17,8 @@ This GitHub repository is for storing the reading materials and the notes taken 
 - Sep 19 :: Cook's theory $\text{PV}$ and a few examples (Jiatu Li).
 - Sep 26 :: Programming in PV (Jiatu Li)
 - Oct 3 :: Cancelled due to Theory Retreat :)
-- Oct 10 :: "Advanced" Data Structures in PV (Jiatu Li)
-- Oct 17 :: Basic Proof Theory and PV1 (Jiatu Li)
+- Oct 10 :: Basic Proof Theory in PV (Jiatu Li)
+- Oct 17 :: "Advanced" Data Structure (Jiatu Li)
 
 ## Mailing List
 
