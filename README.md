@@ -13,15 +13,23 @@ This GitHub repository is for storing the reading materials and the notes taken 
 **Contact:** Jiatu Li (jiatuli AT mit DOT edu)
 
 **Previous Meetings**
-- Sep 12 :: Introduction & feasible mathematics as an informal notion (Jiatu Li). [Note](/lec1-bounded-arithmetic.pdf).
-- Sep 19 :: Cook's theory $\text{PV}$ and a few examples (Jiatu Li). [Note](lec2-def-of-pv.pdf)
-- Sep 26 :: Programming in PV (Jiatu Li). [Note](lec3-programming.pdf)
+- Sep 12 :: Introduction & feasible mathematics as an informal notion. [Note](/lec1-bounded-arithmetic.pdf).
+- Sep 19 :: Cook's theory $\text{PV}$ and a few examples. [Note](lec2-def-of-pv.pdf)
+- Sep 26 :: Programming in PV. [Note](lec3-programming-revised.pdf)
 - Oct 3 :: Cancelled due to Theory Retreat :)
+- Oct 10 :: Basic Proof Theory in PV [Note](lec4-proof.pdf)
 
 **Upcoming Meetings and Tentative Agenda:** 
 
-- Oct 10 :: Programming in PV (continued) and Basic Proof Theory in PV (Jiatu Li)
-- Oct 17 :: "Advanced" Data Structure (Jiatu Li)
+- Oct 17 :: Basic Proof Theory in PV (continued) and "Advanced" Data Structure 
+- Oct 24 :: Simulating Other Computation Models in PV
+- Oct 31 :: Cancelled due to Halloween & FOCS
+- Nov 7 :: Propositional Translation 
+- Nov 14 :: First-Order Theory of PV
+- Nov 21 :: Buss's Witnessing Theorem
+- Nov 28 :: Cancelled due to Thanksgiving
+- Dec 5 :: Recent Work on Bounded Arithmetic
+- Dec 12 :: Recent Work on Bounded Arithmetic
 
 ## Mailing List
 
