@@ -14,21 +14,22 @@ This GitHub repository is for storing the reading materials and the notes taken 
 
 **Previous Meetings**
 - Sep 12 :: Introduction & feasible mathematics as an informal notion. [Note](/lec1-bounded-arithmetic.pdf).
-- Sep 19 :: Cook's theory $\text{PV}$ and a few examples. [Note](lec2-def-of-pv.pdf)
+- Sep 19 :: Cook's theory $\textsf{PV}$ and a few examples. [Note](lec2-def-of-pv.pdf)
 - Sep 26 :: Programming in PV. [Note](lec3-programming-revised.pdf)
 - Oct 3 :: Cancelled due to Theory Retreat :)
 - Oct 10 :: Basic Proof Theory in PV [Note](lec4-proof.pdf)
 - Oct 17 :: Basic Proof Theory in PV (continued) and "Advanced" Data Structure 
 - Oct 24 :: "Advanced" Data Structure (continued) [Note](lec5-advanced-ds.pdf)
 - Oct 31 :: Cancelled due to Halloween & FOCS
+- Nov 7 :: Simulation of Other Computation Models
+- Nov 14 :: Cancelled due to illness :(
+- Nov 21 :: Propositional Translation (Cook's Translation) for PV 
+- Nov 28 :: Cancelled due to Thanksgiving
+- Dec 5 :: First-order theory $\textsf{PV}_1$, Herbrand Theorem and Parikh's Theorem
+- Dec 12 :: KPT Witnessing Theorem and Buss's Witnessing Theorem 
  
 **Upcoming Meetings and Tentative Agenda:** 
-- Nov 7 :: Simulation of Other Computation Models
-- Nov 14 :: Propositional Translation
-- Nov 21 :: First-order Theory of Bounded Arithmetic
-- Nov 28 :: Cancelled due to Thanksgiving
-- Dec 5 :: Buss's Witnessing Theorem
-- Dec 12 :: Recent Work on Bounded Arithmetic
+- Dec 19 :: Special Talk: Provability of Circuit Size Hierarchy by [Marco Carmosino](https://marco.ntime.org/)
 
 ## Mailing List
 
